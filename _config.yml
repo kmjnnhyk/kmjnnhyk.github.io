@@ -9,3 +9,5 @@ plugins:
   - jekyll-seo-tag
 exclude:
   - CLAUDE.md
+header_pages:
+  - about.md
