@@ -1,0 +1,9 @@
+title: Devlog
+description: 문제 해결 과정을 기록하는 기술 블로그
+author: kmjnnhyk
+url: "" # GitHub Pages URL 설정 후 업데이트
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
