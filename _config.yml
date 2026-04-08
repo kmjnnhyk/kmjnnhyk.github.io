@@ -5,7 +5,6 @@ url: "https://kmjnnhyk.github.io"
 baseurl: ""
 theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
 future: true
 exclude:
